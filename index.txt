@@ -1,0 +1,125 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Mufeez Qadri
+Mufeez Qadri
+Web developer
+
+Show Contacts
+
+Email
+mq6315@srmist.edu.in
+
+Phone
++919541787681
+
+Birthday
+March 5, 2002
+
+Location
+SRM KTR, Chennai. 
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I'm a student of SRM University currently pursuing Computer Science Engineering. I'm a passionate individual on a perpetual journey of self-discovery and growth. With a curious mind and an insatiable appetite for learning, I thrive on exploring the intricacies of life and the world around me. Whether delving into the realms of literature, science, or art, I find joy in the pursuit of knowledge and the beauty of diverse perspectives. As an avid adventurer, I cherish the experiences that push me out of my comfort zone, fostering resilience and adaptability. A creative spirit at heart, I express myself through various outlets, be it through writing, art, or engaging conversations. Connecting with people and understanding their unique stories is something I deeply value. Life, to me, is a canvas waiting to be painted with the vibrant strokes of experiences, and I am excited to continue this ever-evolving masterpiece.
+
+# service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
